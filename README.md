@@ -2,7 +2,7 @@
 
 Add different libraries which are there in python
 
- <h1 align="center"><img src="https://github.com/raktimbar100/HACKTOBERFEST-2022/blob/main/ymlmr15l83rrjq8natft.jpg"></h1>
+ <h1 align="center"><img src="https://github.blog/wp-content/uploads/2022/10/hacktoberfestbanner.jpeg?fit=1200%2C630"></h1>
  
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> HACKTOBERFEST 2022 IS HERE :bangbang::bangbang::bangbang:
 
